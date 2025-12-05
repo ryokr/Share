@@ -1,6 +1,4 @@
-# 📁 Image Gallery
-
-Auto-generated gallery of all images.
+# Image Gallery
 ---
 
 ## 📂 Assets
@@ -10,21 +8,6 @@ Auto-generated gallery of all images.
 </a>
 <a href='https://github.com/ryokr/Share/blob/main/Assets/Campfire_Dance.gif' target='_blank'>
 <img src='Assets/Campfire_Dance.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
-</a>
-<a href='https://github.com/ryokr/Share/blob/main/Assets/Preview1.png' target='_blank'>
-<img src='Assets/Preview1.png' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
-</a>
-<a href='https://github.com/ryokr/Share/blob/main/Assets/Preview2.png' target='_blank'>
-<img src='Assets/Preview2.png' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
-</a>
-<a href='https://github.com/ryokr/Share/blob/main/Assets/Preview3.png' target='_blank'>
-<img src='Assets/Preview3.png' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
-</a>
-<a href='https://github.com/ryokr/Share/blob/main/Assets/Preview4.png' target='_blank'>
-<img src='Assets/Preview4.png' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
-</a>
-<a href='https://github.com/ryokr/Share/blob/main/Assets/Preview5.png' target='_blank'>
-<img src='Assets/Preview5.png' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
 </a>
 <a href='https://github.com/ryokr/Share/blob/main/Assets/robin2.jpg' target='_blank'>
 <img src='Assets/robin2.jpg' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
@@ -107,9 +90,6 @@ Auto-generated gallery of all images.
 </a>
 <a href='https://github.com/ryokr/Share/blob/main/Icons/orange.png' target='_blank'>
 <img src='Icons/orange.png' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
-</a>
-<a href='https://github.com/ryokr/Share/blob/main/Icons/ryo.jpg' target='_blank'>
-<img src='Icons/ryo.jpg' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
 </a>
 <a href='https://github.com/ryokr/Share/blob/main/Icons/sc.png' target='_blank'>
 <img src='Icons/sc.png' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
