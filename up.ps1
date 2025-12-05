@@ -11,9 +11,7 @@ $root = Get-Location
 $readmePath = "$root/README.md"
 
 $builder = @()
-$builder += "# 📁 Image Gallery"
-$builder += ""
-$builder += "Auto-generated gallery of all images."
+$builder += "# Image Gallery"
 $builder += "---`n"
 
 # Get only top-level directories
