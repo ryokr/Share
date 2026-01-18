@@ -1,6 +1,14 @@
 # Image Gallery
 ---
 
+## 📂 Activity
+
+<a href='https://github.com/ryokr/Share/blob/main/Activity/aemeath.gif' target='_blank'>
+<img src='Activity/aemeath.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+
+---
+
 ## 📂 Assets
 
 <a href='https://github.com/ryokr/Share/blob/main/Assets/button_info.png' target='_blank'>
