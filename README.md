@@ -91,6 +91,35 @@
 
 ---
 
+## 📂 Gifs
+
+<a href='https://github.com/ryokr/Share/blob/main/Gifs/homelander-alright.gif' target='_blank'>
+<img src='Gifs/homelander-alright.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+<a href='https://github.com/ryokr/Share/blob/main/Gifs/homelander-cheer.gif' target='_blank'>
+<img src='Gifs/homelander-cheer.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+<a href='https://github.com/ryokr/Share/blob/main/Gifs/homelander-devastated-wide.gif' target='_blank'>
+<img src='Gifs/homelander-devastated-wide.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+<a href='https://github.com/ryokr/Share/blob/main/Gifs/homelander-devastated.gif' target='_blank'>
+<img src='Gifs/homelander-devastated.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+<a href='https://github.com/ryokr/Share/blob/main/Gifs/homelander-loss-wide.gif' target='_blank'>
+<img src='Gifs/homelander-loss-wide.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+<a href='https://github.com/ryokr/Share/blob/main/Gifs/homelander-loss.gif' target='_blank'>
+<img src='Gifs/homelander-loss.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+<a href='https://github.com/ryokr/Share/blob/main/Gifs/homelander-nah.gif' target='_blank'>
+<img src='Gifs/homelander-nah.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+<a href='https://github.com/ryokr/Share/blob/main/Gifs/homelander-upset.gif' target='_blank'>
+<img src='Gifs/homelander-upset.gif' width='220' style='border-radius:10px;margin:8px;box-shadow:0 2px 6px rgba(0,0,0,0.2);'/>
+</a>
+
+---
+
 ## 📂 Icons
 
 <a href='https://github.com/ryokr/Share/blob/main/Icons/crown.png' target='_blank'>
